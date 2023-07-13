@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "prefix": "!",
+
+  "embed_color": "#2B2D31",
+  "bot_tag": "Implementation",
+  "bot_name": "Esskeetit",
+
+  "debug": true
+}
